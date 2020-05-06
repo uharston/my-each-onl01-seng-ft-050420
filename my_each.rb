@@ -21,6 +21,6 @@ end
 
 # my_each(collection)
 
-my_each(collection) do |n|
-  puts n
-end
+# my_each(collection) do |n|
+#   puts n
+# end
