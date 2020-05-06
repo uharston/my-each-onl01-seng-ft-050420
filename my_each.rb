@@ -1,7 +1,7 @@
 # def my_each(array)
 #   array.each { |i| puts i}
 # end
-# 
+#
 # def my_each(array)
 #   i = 0
 #   while i < array.size
